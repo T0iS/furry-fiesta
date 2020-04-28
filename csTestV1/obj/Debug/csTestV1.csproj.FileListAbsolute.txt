@@ -1,0 +1,7 @@
+C:\Users\Tom\source\repos\csTestV1\csTestV1\bin\Debug\csTestV1.exe.config
+C:\Users\Tom\source\repos\csTestV1\csTestV1\bin\Debug\csTestV1.exe
+C:\Users\Tom\source\repos\csTestV1\csTestV1\bin\Debug\csTestV1.pdb
+C:\Users\Tom\source\repos\csTestV1\csTestV1\obj\Debug\csTestV1.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\csTestV1\csTestV1\obj\Debug\csTestV1.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\csTestV1\csTestV1\obj\Debug\csTestV1.exe
+C:\Users\Tom\source\repos\csTestV1\csTestV1\obj\Debug\csTestV1.pdb
